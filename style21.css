@@ -16,12 +16,13 @@ p, ul{
 text-align: justify;
 }
 p{
-line-height: 25px;
-font-family: arial;
 text-indent: 50px;
-width: 500px;
+font: 16px/25px arial;
 }
 ul{
 line-height: 20px;
 width: 400px;
+}
+body{
+width: 500px;
 }
